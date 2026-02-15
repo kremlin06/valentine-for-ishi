@@ -1,7 +1,7 @@
 export const milestones = [
     {
       id: 'first-met',
-      date: 'June 15, 202',
+      date: 'June 15, 2025',
       title: 'To The One Who Found Me First — My Princess Ishi',
       emoji: '✨',
       preview: 'One random match. One random "kumain kana ba?". But somehow, it didn\'t feel random.' ,
@@ -74,7 +74,7 @@ export const milestones = [
     {
       id: 'today',
       date: 'February 14, 2025',
-      title: 'This Moment, Todat—Still Us',
+      title: 'This Moment, Todays—Still Us',
       emoji: '💝',
       preview: 'Right now, reading this',
       fullStory: 'And here we are. Every day with you is a new favorite memory. I love you more than words can say, more than this website can show. You\'re my best friend, my partner, my everything. Happy Valentine\'s Day, my Princess and baby Ishi. ♥'
